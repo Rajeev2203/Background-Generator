@@ -4,14 +4,14 @@
 <br>
 
 <h2 id="tech-stack-used">Tech Stack Used</h2>
-<br>
+</br>
 
 <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"></p>
+</br>
 
 <h2 id="how-to-use">How to use:</h2>
-<br>
 
 <ul>
   <li>Download or clone the repository</li>
@@ -25,15 +25,19 @@ git clone https://github.com/Rajeev2203/Background-Generator
   <li>Run the index.html file in your browser</li>
   <li>Start creating your own gradient background<br></li>
 </ul>
-
+</br>
 <h2 id="use-of-the-project">Use of the Project</h2>
 
 <p>
 This project aims to find the best looking background gradient for your project. You just have to select the colors you want from the color picker and then copy the code displayed and paste into your code as background color.
 It&#39;s That Simple!!
 </p>
-<br><br>
+</br>
 
+
+## Default view
 <p><img src="https://github.com/Rajeev2203/Background-Generator/blob/main/Default%20view.png" alt="image">
 <br><br>
+  
+## Result view
 <img src="https://github.com/Rajeev2203/Background-Generator/blob/main/Result%20view.png" alt="image"></p>
