@@ -1,0 +1,50 @@
+body{
+    overflow: hidden;
+    margin: 0;
+}
+
+.container{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+    background-color: #a0dbdb;
+    height: 100vh;
+}
+
+h1{
+    opacity: 0.8;
+    letter-spacing: 20px;
+    font-size: 2.5rem;
+    color: #56a7a7;
+}
+
+h3{
+    font-size: 1.5rem;
+    font-weight: 500;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+h4{
+   font-size: 1.3rem;
+   font-weight: 600;
+   letter-spacing: 3px;
+}
+
+#picker1{
+    margin: 20px;
+}
+
+
+.btn{
+    border: none;
+    background-color:#fcea90;
+    padding: 10px 20px;
+    position: relative;
+    top: 60px;
+    right: 115px;
+    border-radius: 0.6rem;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: inherit;
+}
